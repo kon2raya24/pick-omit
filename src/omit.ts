@@ -1,3 +1,6 @@
+
+// Type exports for consumers
+// Add specific types as needed
 /**
  * omit<T extends Record<string, any>, K extends keyof T>
  * @param obj
