@@ -20,3 +20,11 @@ npm install pick-omit
 ## License
 
 MIT
+
+
+## Usage
+
+```typescript
+import { } from 'pick-omit';
+// See API section for available functions
+```
